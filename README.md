@@ -1,6 +1,6 @@
 # Object-Detection-Yolov5
 
-Github yolov5 tutorialinde uyguladıklarımdan bir kısmını yükledim.Henüz kendi çalışmamı tamamlamış değilim.Süreç içerisinde repoya güncelleme gelecektir.
+Github yolov5 tutorialinde uyguladıklarımdan bir kısmının yüklenmiş halidir.
 
 Örnek Çıktı:
 
